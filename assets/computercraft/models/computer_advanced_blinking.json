@@ -2,11 +2,10 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/orientable",
 	"textures": {
-		"side": "computercraft:block/computer_advanced_side",
+		"side": "computercraft:block/computer_advanced_keyboard_side",
 		"front": "computercraft:block/computer_advanced_front_blink",
 		"switch": "computercraft:block/computer_advanced_switch",
 		"left": "computercraft:block/computer_advanced_side_left",
-		"side": "computercraft:block/computer_advanced_keyboard_side",
 		"right": "computercraft:block/computer_advanced_side_right",
 		"particle": "computercraft:block/computer_advanced_back"
 	},
@@ -17,7 +16,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#right"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#particle"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#left"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#switch"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#switch"}
