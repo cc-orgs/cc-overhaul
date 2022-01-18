@@ -1,62 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/orientable",
+	"parent": "computercraft:block/computer_advanced",
 	"textures": {
-		"side": "computercraft:block/computer_advanced_keyboard_side",
-		"front": "computercraft:block/computer_advanced_front",
-		"switch": "computercraft:block/computer_advanced_switch",
-		"left": "computercraft:block/computer_advanced_side_left",
-		"right": "computercraft:block/computer_advanced_side_right",
-		"back": "computercraft:block/computer_advanced_back"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 4],
-			"to": [16, 16, 14],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#right"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#back"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#left"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#switch"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#switch"}
-			}
-		},
-		{
-			"from": [0, 0, 1],
-			"to": [16, 4, 4],
-			"faces": {
-				"north": {"uv": [0, 12, 16, 16], "texture": "#front"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#side"},
-				"up": {"uv": [16, 10, 0, 13], "texture": "#front"},
-				"down": {"uv": [0, 11, 16, 16], "texture": "#switch"}
-			}
-		},
-		{
-			"from": [2, 6, 3],
-			"to": [14, 14, 5],
-			"faces": {
-				"north": {"uv": [2, 2, 14, 10], "texture": "#front"},
-				"east": {"uv": [1.2, 0.8, 3.2, 8.8], "texture": "#left"},
-				"south": {"uv": [0, 0, 12, 8], "texture": "#missing"},
-				"west": {"uv": [12.4, 1.6, 12.8, 1.6], "texture": "#left"},
-				"up": {"uv": [1, 1, 12, 2], "texture": "#side"},
-				"down": {"uv": [0, 0, 12, 2], "texture": "#left"}
-			}
-		},
-		{
-			"from": [2, 4, 2],
-			"to": [4, 5, 4],
-			"faces": {
-				"north": {"uv": [12, 11, 14, 12], "texture": "#front"},
-				"east": {"uv": [12, 11, 14, 12], "texture": "#front"},
-				"south": {"uv": [12, 11, 14, 12], "texture": "#front"},
-				"west": {"uv": [12, 11, 14, 12], "texture": "#front"},
-				"up": {"uv": [12, 11, 14, 12], "texture": "#front"},
-				"down": {"uv": [12, 11, 14, 12], "texture": "#front"}
-			}
-		}
-	]
+		"front": "computercraft:block/computer_advanced_front"
+	}
 }

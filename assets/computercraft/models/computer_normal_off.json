@@ -1,37 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/orientable",
+	"parent": "computercraft:block/computer_normal",
 	"textures": {
-		"3": "computercraft:block/computer_normal_top",
-		"side1": "computercraft:block/computer_normal_side_1",
-		"side": "computercraft:block/computer_normal_side",
-		"top": "computercraft:block/computer_normal_front",
-		"particle": "computercraft:block/computer_normal_top"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 3],
-			"to": [16, 4, 13],
-			"faces": {
-				"north": {"uv": [0, 12, 16, 16], "texture": "#side"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#side1"},
-				"south": {"uv": [0, 12, 16, 16], "texture": "#side"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#side1"},
-				"up": {"uv": [0, 3, 16, 13], "texture": "#top"},
-				"down": {"uv": [0, 3, 16, 13], "texture": "#3"}
-			}
-		},
-		{
-			"from": [2, 4, 11],
-			"to": [4, 5, 12],
-			"faces": {
-				"north": {"uv": [2, 11, 4, 12], "texture": "#top"},
-				"east": {"uv": [2, 11, 3, 12], "texture": "#top"},
-				"south": {"uv": [2, 11, 4, 12], "texture": "#top"},
-				"west": {"uv": [2, 11, 3, 12], "texture": "#top"},
-				"up": {"uv": [2, 11, 4, 12], "texture": "#top"},
-				"down": {"uv": [2, 11, 4, 12], "texture": "#top"}
-			}
-		}
-	]
+		"top": "computercraft:block/computer_normal_front"
+  }
 }
