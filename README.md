@@ -3,6 +3,9 @@
 
 # What is this?
 This pack is the  **Overhaul** pack which overhauls CC's textures and models. Made by 3prm3.
+# Screenshots
+<img src="https://media.discordapp.net/attachments/477911902152949771/932483170828439582/unknown.png"/>
+
 # Known Bugs
 <summary>The command computer culls weirdly</summary>
 <img src="https://media.discordapp.net/attachments/834505031641202768/932471215757594704/unknown.png" alt="Bug 1" width="128"  height="128"/>
