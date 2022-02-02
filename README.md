@@ -1,4 +1,7 @@
 <img src="https://raw.githubusercontent.com/cc-tweaked/cc-restitched/1.17.1/logo.png" alt="CC: Restitched" width="100%"/>
+
+***W.I.P, screenshots outdated.***
+
 <img src="https://raw.githubusercontent.com/cc-tweaked/cc-pack/main/pack.png" alt="pack.png" width="64"  height="64"/>
 
 # What is this?
