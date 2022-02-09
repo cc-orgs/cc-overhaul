@@ -7,8 +7,8 @@
 # What is this?
 This pack is the  **Overhaul** pack which overhauls CC's textures and models. Made by 3prm3.
 # Screenshots
-<img src="https://media.discordapp.net/attachments/477911902152949771/932483170828439582/unknown.png"/>
-<img src="https://user-images.githubusercontent.com/70713233/150701895-274248d3-9038-4746-997a-864988928d1e.png"/>
+<img src="https://media.discordapp.net/attachments/477911902152949771/940761062901444608/unknown.png?width=1270&height=736"/>
+<img src="https://media.discordapp.net/attachments/477911902152949771/940782374923423845/unknown.png?width=346&height=281"/>
 
 # Known Bugs
 <summary>The command computer culls weirdly</summary>
