@@ -2,6 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "computercraft:block/computer_normal",
 	"textures": {
-		"top": "computercraft:block/computer_normal_front_on"
-  }
+		"1": "computercraft:block/computer_normal_side",
+		"top": "computercraft:block/computer_normal_front_on",
+		"particle": "computercraft:block/computer_normal_side"
+	}
 }
