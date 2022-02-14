@@ -11,11 +11,10 @@ jobs:
         type: 'zip'
         filename: 'release.zip'
         exclusions: 'cc-overhaul/README.md'
-  - name: Upload  Artifact
-     uses: ncipollo/release-action@v1
-     with:
-        artifacts: "release.zip"
-
+/- name: Upload a Build Artifact
+   uses: actions/upload-artifact@v2.3.1
+    with:
+      path: 'release.zip'
 
         
 
