@@ -5,7 +5,7 @@
 # What is this?
 This pack is the  **Overhaul** pack; a project by 3prm3 which overhauls ***(get it?)*** CC's textures and models.
 # How do I get it?
-Click the green "code" button and then click download zip then extract and put the cc-overhaul-main folder into resource packs.
+Click the green "code" button and then click download zip (then extract and put the cc-overhaul-main folder into resource packs if needed).
 You can also get overhaul from here https://github.com/cc-orgs/cc-overhaul/releases
 # Is CC (Computercraft) required?
 Yes! This is a texture pack for CC and as such requires it to work.
