@@ -4,8 +4,9 @@
 	"textures": {
 		"bottom": "computercraft:block/computer_normal_top",
 		"side1": "computercraft:block/computer_normal_side_1",
+		"particle": "computercraft:block/computer_normal_side",
 		"side": "computercraft:block/computer_normal_side",
-		"top": "#top"
+		"top": ""
 	},
 	"elements": [
 		{

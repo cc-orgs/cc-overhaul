@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"side": "computercraft:block/cable_side"
+		"side": "computercraft:block/cable_side",
+		"particle": "computercraft:block/cable_core"
 	},
 	"elements": [
 		{

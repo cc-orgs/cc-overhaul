@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "computercraft:block/modem",
+	"textures": {
+		"particle": "computercraft:block/wired_modem_face_peripheral",
+		"front": "computercraft:block/wired_modem_face_peripheral",
+		"back": "computercraft:block/modem_back"
+	}
+}
