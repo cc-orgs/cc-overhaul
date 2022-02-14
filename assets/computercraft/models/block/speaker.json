@@ -14,10 +14,10 @@
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#front"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"south": {"uv": [0, 0, 8, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#front"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
 				"up": {"uv": [16, 3, 0, 13], "rotation": 90, "texture": "#3"},
-				"down": {"uv": [0, 0, 8, 16], "texture": "#missing"}
+				"down": {"uv": [0, 3, 16, 13], "rotation": 270, "texture": "#3"}
 			}
 		}
 	]
