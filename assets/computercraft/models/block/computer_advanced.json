@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/orientable",
 	"textures": {
-		"front": "#front",
+		"front": "",
 		"trtop": "computercraft:block/computer_advanced_keyboard_top",
 		"bottom": "computercraft:block/computer_advanced_true_bottom",
 		"trbottom": "computercraft:block/computer_advanced_keyboard_bottom",
@@ -14,8 +14,8 @@
 	},
 	"elements": [
 		{
-			"from": [0, 0, 4],
-			"to": [16, 16, 14],
+			"from": [0, 0, 5],
+			"to": [16, 16, 15],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#right"},
@@ -27,19 +27,19 @@
 		},
 		{
 			"from": [0, 0, 1],
-			"to": [16, 4, 4],
+			"to": [16, 4, 5],
 			"faces": {
 				"north": {"uv": [0, 12, 16, 16], "texture": "#front"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
 				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
 				"west": {"uv": [16, 0, 0, 16], "texture": "#side"},
-				"up": {"uv": [16, 16, 0, 13], "texture": "#trtop"},
+				"up": {"uv": [16, 16, 0, 12], "texture": "#trtop"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#trbottom"}
 			}
 		},
 		{
-			"from": [2, 7, 3],
-			"to": [14, 14, 5],
+			"from": [2, 7, 4],
+			"to": [14, 14, 6],
 			"faces": {
 				"north": {"uv": [2, 2, 14, 9], "texture": "#front"},
 				"east": {"uv": [4.4, 0.8, 3.2, 8.8], "texture": "#left"},
@@ -50,8 +50,8 @@
 			}
 		},
 		{
-			"from": [2, 5, 3],
-			"to": [5, 6, 4],
+			"from": [2, 5, 4],
+			"to": [5, 6, 5],
 			"faces": {
 				"north": {"uv": [11, 10, 11, 11], "texture": "#front"},
 				"east": {"uv": [11, 10, 11, 11], "texture": "#front"},
