@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70713233/153727241-cd185e7b-4c5e-4036-93ca-11d68b4c971d.png" alt="CC: Restitched" width="75%"/>
+<img src="https://user-images.githubusercontent.com/70713233/157146318-01c49d0c-bb51-4443-aad1-8e69d0858f45.png" alt="CC: Restitched" width="75%"/>
 
 ***Pretty much done.***
 
