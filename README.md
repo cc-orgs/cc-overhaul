@@ -15,6 +15,8 @@ Yes! This is a texture pack for CC and as such requires it to work.
 
 # Bugs...
 ***Nothing here!***
+# Notes
+If you are using CC:Restitched then this pack is already included and its name will be`computercraft/overhaul`.
 
 
 
