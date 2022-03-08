@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/orientable",
 	"textures": {
-		"front": "",
+		"front": "#front",
 		"trtop": "computercraft:block/computer_advanced_keyboard_top",
 		"bottom": "computercraft:block/computer_advanced_true_bottom",
 		"trbottom": "computercraft:block/computer_advanced_keyboard_bottom",
