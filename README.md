@@ -12,6 +12,7 @@ Yes! This is a texture pack for CC and as such requires it to work.
 # Screenshots!
 <img src="https://user-images.githubusercontent.com/70713233/153792385-624bf00e-6976-4a17-9a42-5f2ad67c18bf.png"/>
 <img src="https://media.discordapp.net/attachments/477911902152949771/940782374923423845/unknown.png?width=346&height=281"/>
+<img src="https://user-images.githubusercontent.com/70713233/160254793-25b1f0ef-4243-4a27-985a-f7ffc7ac83dd.png"/>
 
 # Bugs...
 ***Nothing here!***
