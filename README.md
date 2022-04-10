@@ -1,8 +1,8 @@
 <img src="readme-assets/overhaullogo.png" alt="Overhaul" width="75%"/>
 
-<img src="https://raw.githubusercontent.com/3prm3/.github/main/rers.png" width="30%"/>
-
 ***Done-ish.***
+
+<img src="https://raw.githubusercontent.com/3prm3/.github/main/rers.png" width="30%"/>
 
 <img src="readme-assets/whatisoverhaul.png" alt="What is Overhaul?" width="50%">
 
