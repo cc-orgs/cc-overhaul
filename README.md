@@ -1,4 +1,4 @@
-<img src="readme-assets/overhaullogo.png" alt="CC: Restitched" width="75%"/>
+<img src="readme-assets/overhaullogo.png" alt="Overhaul" width="75%"/>
 
 ***Done-ish.***
 
