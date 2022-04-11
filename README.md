@@ -11,7 +11,7 @@ This is **Overhaul** pack; a project by 3prm3 which overhauls CC's textures and 
 <img src="readme-assets/download.png" alt="How do I download this?" width="50%">
 
 Click the green "code" button and then click download zip (then extract and put the cc-overhaul-main folder into resource packs if needed).
-You can also get overhaul from here https://github.com/cc-orgs/cc-overhaul/releases
+You can also get overhaul from [here](https://github.com/cc-orgs/cc-overhaul/releases).
 
 <img src="readme-assets/requirecc.png" alt="Does this require CC?" width="50%">
 
